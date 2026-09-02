@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.odd-numbered-class {
+    background-color: #FA6885;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2Id {
+    color: #21ABCD;
+    font-size: 36px;
+}
+
+.font-size-class {
+    font-size: 24px;
+}
+
+#number4Id {
+    background-color: rgb(70%, 100%, 33%) ;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
